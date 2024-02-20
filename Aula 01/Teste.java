@@ -23,6 +23,7 @@ public class Teste {
         // encapsulamento, herança e polimorfismo
         // existe um jeito, em vez da herança, de a classe filha sobrescrever conteudos da classe pai, no caso so dela
 
+
         // existem varios tipos de polimorfismo:
         // o dinamico (que é a sobrecarga), resolvido em tempo de execução
         // o estático (que é a sobrescrita), resolvido em tempo de compilação
